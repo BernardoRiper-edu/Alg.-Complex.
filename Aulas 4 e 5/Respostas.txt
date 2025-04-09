@@ -1,0 +1,5 @@
+Aula 5
+
+1) São três condições de parada: caso o expoente seja zero, a função retorna 1, caso o expoente seja 1 a função retorna n e, caso o expoente seja maior que 1, a função para quando n termos foram multiplicados.
+
+3) Essa função é uma implementação do algoritmo de Euclides, para calcular o Máximo Divisor Comum (MDC) entre dois números.
